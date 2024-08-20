@@ -1,0 +1,27 @@
+#rightElement {
+   border: 3px solid black;
+    width: 50%
+
+}
+
+#leftElement {
+   border: 3px solid black;
+   width: 50%
+
+}
+#leftElement img {
+   width: 100%;
+   height: 100%;
+}
+#mainElement {
+   border: 3px solid black;
+   display: flex;
+}
+.post {
+   border: 3px solid black;
+   width: 100%;
+}
+.dark-mode {
+   background-color: rgb(69, 67, 67);
+   color: white;
+}
